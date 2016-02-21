@@ -505,6 +505,12 @@ width:85%;
     -o-background-size: cover;
 }
 
+.whyus p{
+    font-size:20px;
+    letter-spacing: 3px;
+    line-height: 50px;
+}
+
 footer{
     text-align: right;
     color: grey solid: ;
@@ -528,4 +534,13 @@ footer{
 }
 #about{
     background-color: rgba(34, 34, 34, 0.86);
+}
+.white{
+    color: white;
+}
+.touch{
+    line-height: 20px;
+}
+.touch p{
+    font-size: 20px;
 }
