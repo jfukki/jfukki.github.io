@@ -1,0 +1,20 @@
+body{
+    background: #ffffff;
+    
+}
+ 
+#product_img{
+    width: 350px;
+    height: 220px;
+}
+
+#product_image{
+    width: 380px;
+    height: 180px;
+}
+
+#product_image_detail{
+    
+    width: 720px;
+    height: 380px;
+}
